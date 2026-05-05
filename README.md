@@ -8,5 +8,5 @@ Azaera Toussaint:
 - Developed logic and calculations
 - Generated Gantt charts and outputs
 
-## FaustinjuniorDestiny Nakumbumba:
+FaustinjuniorDestiny Nakumbumba:
 - Responsible for report writing and documentation
