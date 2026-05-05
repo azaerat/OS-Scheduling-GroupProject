@@ -10,3 +10,11 @@ Azaera Toussaint:
 
 FaustinjuniorDestiny Nakumbumba:
 - Responsible for report writing and documentation
+
+
+What you need to include in the paper: 
+- Screenshots of each program running
+- Explanation of each algorithm
+- Gantt charts (from your outputs)
+- Results + comparison
+- Acknowledgment section
